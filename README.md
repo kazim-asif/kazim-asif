@@ -34,7 +34,7 @@
 
 ###
 
-<h2>🚀 Languages and Tools</h2>
+<h2>Languages and Tools</h2>
 <p align="left">
   <a target="_blank" href="https://www.java.com" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
   <a target="_blank" href="https://go.dev" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
